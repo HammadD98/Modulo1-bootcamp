@@ -14,7 +14,8 @@
      - Analisar o fluxo das notificações ao longo do tempo, bem como a cada 10 anos.
      
 ## Realização
-     Atraves dos conhecimemntos adquiridos no mudulo 1 do bootcamp, que consiste nas bibliotecas, numpy, pandas e matplotlib
+     Atraves dos conhecimemntos adquiridos no mudulo 1 do bootcamp, que consiste nas bibliotecas,
+     numpy, pandas e matplotlib
      
 
 
