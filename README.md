@@ -1,6 +1,6 @@
 # PROJETO 1 - BOOTCAMP ALURA 
 
-### Casos de aids identificados no Brasil
+### Anaise dos dados de casos de aids identificados no Brasil
 
 ## Dados
 
@@ -14,7 +14,7 @@
      - Analisar o fluxo das notificações ao longo do tempo, bem como a cada 10 anos.
      
 ## Realização
-     Atraves dos conhecimemntos adquiridos no mudulo 1 do bootcamp, que consiste nas bibliotecas,
+     Atraves dos conhecimentos adquiridos no mudulo 1 do bootcamp, que consiste nas bibliotecas,
      numpy, pandas e matplotlib
      
 
