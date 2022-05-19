@@ -1,6 +1,4 @@
-# PROJETO 1 - BOOTCAMP ALURA 
-
-### Analise dos dados de casos de aids identificados no Brasil
+# Analise dos dados de casos de aids identificados no Brasil
 
 ## Dados
 
